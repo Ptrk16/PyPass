@@ -14,4 +14,4 @@ Converting to an .exe file:
 The .exe file will be located in a folder called dist.
 To merge these two files to one you have to use iexpress.
 
-NOTE: Edge passwords are work.
+<b>NOTE: Edge passwords are work.</b>
